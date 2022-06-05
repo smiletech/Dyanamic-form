@@ -13,7 +13,7 @@ function AddField() {
 
     const submithndler = () => {
         const arr=Value.trim().split(',');
-   
+                       
      if(lebel!=="" && field!=="" && name!=="" || Value!=="")
       {  const data = {
             lebel,
@@ -83,7 +83,6 @@ function AddField() {
                     </div>
                     <span className=''>sperate with (,)</span>
                     </div>
-
                     }
 
                     <div className="col-sm-6 d-flex my-4">

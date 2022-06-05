@@ -1,5 +1,3 @@
-import logo from './logo.svg';
-import './App.css';
 import AddField from './Components/AddField';
 import Textbox from './Components/Textbox';
 
